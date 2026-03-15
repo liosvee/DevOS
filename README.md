@@ -2,6 +2,10 @@
 
 AI operating system for developers to plan, build, debug, and ship software faster.
 
+https://chatgpt.com/g/g-69b3a2b473248191ae74cd0dd207a2a9-devos
+
+
+
 ## Overview
 
 **DevOS** is an AI-powered development operating system designed to help developers move from idea to execution with more speed, structure, and consistency.
